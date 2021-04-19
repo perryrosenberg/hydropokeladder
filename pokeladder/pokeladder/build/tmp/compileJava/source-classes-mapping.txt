@@ -1,0 +1,18 @@
+com/iate/pokeladder/pokeladder/model/Ratings.java
+ com.iate.pokeladder.pokeladder.model.Ratings
+com/iate/pokeladder/pokeladder/PokeladderApplication.java
+ com.iate.pokeladder.pokeladder.PokeladderApplication
+com/iate/pokeladder/pokeladder/controller/GreetingController.java
+ com.iate.pokeladder.pokeladder.controller.GreetingController
+com/iate/pokeladder/pokeladder/model/PokeLadder.java
+ com.iate.pokeladder.pokeladder.model.PokeLadder
+com/iate/pokeladder/pokeladder/data/PokeLadderDatastore.java
+ com.iate.pokeladder.pokeladder.data.PokeLadderDatastore
+com/iate/pokeladder/pokeladder/service/UsernameService.java
+ com.iate.pokeladder.pokeladder.service.UsernameService
+com/iate/pokeladder/pokeladder/model/Gen8randombattle.java
+ com.iate.pokeladder.pokeladder.model.Gen8randombattle
+com/iate/pokeladder/pokeladder/service/EloDownloaderService.java
+ com.iate.pokeladder.pokeladder.service.EloDownloaderService
+com/iate/pokeladder/pokeladder/controller/PokeLadderController.java
+ com.iate.pokeladder.pokeladder.controller.PokeLadderController
